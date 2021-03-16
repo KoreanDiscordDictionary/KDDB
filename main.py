@@ -5,7 +5,7 @@ from discord.ext.commands import bot
 
 bot = commands.Bot(command_prefix=['kdd ', 'KDD ', 'kdd', 'KDD'], help_command=None)
 
-startup_extensions = ['cogs.Category']
+startup_extensions = ['cogs.Quiz']
 
 if __name__ == "__main__":
     for extension in startup_extensions:
