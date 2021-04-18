@@ -3,6 +3,7 @@ import asyncio
 import jishaku
 from discord.ext import commands
 from discord.ext.commands import bot
+from EZPaginator import Paginator
 
 bot = commands.Bot(
     command_prefix=["kdd ", "KDD ", "kdd", "KDD"],
