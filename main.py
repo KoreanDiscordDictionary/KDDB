@@ -26,4 +26,4 @@ async def reload(ctx):
     await ctx.send('리로드가 완료되었습니다.')
     
 
-bot.run('Nzg4NjQ5MTAzNTcxNDE5MTY2.X9mktg.jPBPg2DmXSMSfg3fpRd_KRD8sM4')
+bot.run('ODMzMTc1OTQyMDgzMTE3MDc2.YHuhkA.g0ZwduEmno5un67PP_UF8wO1MXU') # Test봇 Token
